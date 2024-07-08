@@ -1,0 +1,1 @@
+{"name":"Local: object_compare","url":"/Users/mdimran/Movies/practice/algo 2/object_compare.cpp","tests":[{"id":1716923877550,"input":"5\nRahat 80 10\nRahat 100 10\nRahat 81 10\nRahat 82 10\nRahat 83 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mdimran/Movies/practice/algo 2/object_compare.cpp","group":"local","local":true}

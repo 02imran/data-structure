@@ -1,0 +1,1 @@
+{"name":"Local: real_binary_search","url":"/Users/mdimran/Movies/practice/algo 2/real_binary_search.cpp","tests":[{"id":1718545929377,"input":"7\n1 2 3 4 5 6 7\n7","output":"Found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mdimran/Movies/practice/algo 2/real_binary_search.cpp","group":"local","local":true}

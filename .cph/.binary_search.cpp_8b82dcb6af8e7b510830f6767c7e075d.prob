@@ -1,0 +1,1 @@
+{"name":"Local: binary_search","url":"/Users/mdimran/Movies/practice/algo 2/binary_search.cpp","tests":[{"id":1718517549386,"input":"5 3\n1 5 4 3 2\n5\n3\n6","output":"found\nfound\nnot found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mdimran/Movies/practice/algo 2/binary_search.cpp","group":"local","local":true}
